@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python SQL Machine Learning Data Analysis Statistics NumPy Pandas Matplotlib Scikit-learn Jupyter
+DevOps Engineer,AWS Docker Kubernetes CI/CD Linux Bash Terraform Git Jenkins Ansible Monitoring
+Backend Developer,Java Python SQL APIs REST Databases Git OOP Microservices Spring NodeJS
+Frontend Developer,JavaScript React HTML CSS TypeScript UI UX Git Redux Webpack Figma
+ML Engineer,Python TensorFlow PyTorch Deep Learning Neural Networks GPU CUDA Keras NLP OpenCV
+Cloud Architect,AWS Azure GCP Cloud Security Networking Infrastructure DevOps Terraform IAM Load Balancing
+Data Engineer,Python SQL Spark Kafka ETL Pipeline Airflow Data Warehousing Hadoop Redshift BigQuery
+Cybersecurity Analyst,Networking Linux Security Firewalls Penetration Testing SIEM Encryption Vulnerability Wireshark
+Full Stack Developer,JavaScript React NodeJS SQL HTML CSS Python APIs MongoDB Express Git
+AI Researcher,Python Mathematics Statistics Deep Learning Research NLP Computer Vision Transformers BERT GPT
+Database Administrator,SQL MySQL PostgreSQL MongoDB Optimization Backup Replication Indexing Redis Oracle
+System Administrator,Linux Windows Networking Servers Bash Automation Security Active Directory VMware
+Mobile Developer,Swift Kotlin Java Android iOS React Native APIs Firebase Push Notifications
+Business Intelligence,SQL Power BI Tableau Data Visualization Excel Reporting Analytics DAX Dashboard
+Blockchain Developer,Solidity Ethereum Smart Contracts Web3 Cryptography Python Decentralized DeFi NFT
+Network Engineer,Networking Routing Switching Cisco Firewalls VPN TCP/IP Protocols Linux Troubleshooting
+Game Developer,Unity C# C++ OpenGL Physics Engine Animation 3D Modeling Unreal Graphics Rendering
+Embedded Systems Engineer,C C++ Microcontrollers RTOS Arduino Raspberry Pi Firmware Assembly Hardware IoT
+QA Engineer,Testing Automation Selenium Python Java Bug Tracking Agile Regression Performance Load Testing
+NLP Engineer,Python NLP BERT Transformers Text Classification Named Entity Recognition Sentiment Analysis SpaCy Hugging Face
