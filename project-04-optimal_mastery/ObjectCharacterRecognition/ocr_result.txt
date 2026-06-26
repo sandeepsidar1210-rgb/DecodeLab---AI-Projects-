@@ -1,0 +1,17 @@
+Extracted Text:
+INVOICE #0042
+
+Date: 2024-11-15
+
+Item: Server Rack Unit
+
+Qty: 3 units
+
+Rate: Rs. 15,000 per unit
+Subtotal: Rs. 45,000
+
+GST (18%): Rs. 8,100
+TOTAL: Rs. 53,100
+Thank you for your business!
+
+Confidence: 87.00%
